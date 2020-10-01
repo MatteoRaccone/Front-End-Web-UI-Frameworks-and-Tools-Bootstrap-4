@@ -78,3 +78,10 @@ a:hover {
 .check-smoking {
 	appearance: none!important;
 }
+
+
+#carouselButton {
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+}
